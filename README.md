@@ -1,1 +1,1 @@
-readme file
+Над проектом работают три разработчика: GlebAlekseev
